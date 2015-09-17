@@ -3,9 +3,9 @@
     #include <string.h>
     using namespace std;
 
-    #define C "+" // Cruce
-    #define H "-" // Horizontal
-    #define V "|" // Vertical
+    #define C "+" 
+    #define H "-" 
+    #define V "|" 
     char a1=' ',a2=' ',a3=' ',b1=' ',b2=' ',b3=' ',c1=' ',c2=' ',c3=' ',turno,otravez;
     string ficha=" ";
     int win=-1,jug,i=0;
